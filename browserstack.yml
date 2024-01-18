@@ -1,0 +1,8 @@
+userName: sulagnachakrabor_hF8bLJ
+accessKey: 1bt4ji6nzS6ALopzMHZq
+buildName: browserstack build 1
+projectName: TESTNg Local Test GitActions
+CUSTOM_TAG_1: "You can set a custom Build Tag here"
+framework: testng
+testObservability: true
+browserstackAutomation: false

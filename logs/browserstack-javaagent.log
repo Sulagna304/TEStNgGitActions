@@ -1,0 +1,9 @@
+19:56:45.650 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.16.1
+19:56:45.654 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:56:45.856 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\SChakraborty\Documents\JiraTestNGtest\browserstack.yml
+19:56:45.907 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:56:45.919 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your browserstack.yml to false
+19:56:45.921 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+19:56:45.921 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:56:58.858 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/h9fxqq9xj6zc2ppfek2fwx7t5vyosifbszxmgkqe to view build report, insights, and many more debugging information all at one place!
+

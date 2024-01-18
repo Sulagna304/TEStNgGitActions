@@ -1,0 +1,18 @@
+# Created at 2024-01-18T19:56:45.613
+SLF4J(W): No SLF4J providers were found.
+
+# Created at 2024-01-18T19:56:45.614
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+
+# Created at 2024-01-18T19:56:45.615
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+
+# Created at 2024-01-18T19:56:45.616
+SLF4J(W): Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+
+# Created at 2024-01-18T19:56:45.617
+SLF4J(W): Ignoring binding found at [jar:file:/C:/Users/SChakraborty/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.1/browserstack-java-sdk-1.13.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2024-01-18T19:56:45.618
+SLF4J(W): See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+
