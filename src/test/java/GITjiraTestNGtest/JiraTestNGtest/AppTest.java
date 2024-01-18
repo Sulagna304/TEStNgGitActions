@@ -13,19 +13,7 @@ public class AppTest
 {
 	  static WebDriver driver;
 	  
-    @Test
-    public void MethodForGitHubAction() throws InterruptedException {
-	    String baseUrl = "https://www.google.com";        
-        //ChromeOptions options = new ChromeOptions();
-        //options.addArguments("--headless");
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
-        driver.get(baseUrl);
-        //String testTitle = "Free QA Automation Tools For Everyone";
-        //String originalTitle = driver.getTitle();
-        driver.close();
-    }
-
+    
     @Test
     public void TestNew2() throws InterruptedException { 
     //System.setProperty("webdriver.chrome.driver", "C:\\path\\to\\chromedriver.exe");
