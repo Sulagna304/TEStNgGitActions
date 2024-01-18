@@ -1,0 +1,22 @@
+name: Maven TestNG project Gitactions browserstack
+
+on:
+  workflow_dispatch:
+  push:
+    branches: master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up JDK 11
+      uses: actions/checkout@v4
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+
+- name: Run with Maven
+      run: mvn test
