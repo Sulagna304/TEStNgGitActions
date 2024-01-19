@@ -20,8 +20,10 @@ jobs:
     - name: check version
       run: google-chrome --version 
 
-    - name: Chrome/Chromedriver Matcher Action
-      uses: jamesmortensen/chromedriver-matcher-action@v1.0.1
+    - name: setup-chromedriver
+      uses: nanasess/setup-chromedriver@v2.2.1
+      with:
+        chromedriver-version: '120.0.6099.216'
           
    
    
