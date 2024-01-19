@@ -15,7 +15,12 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
 
-    - name: Run with Maven
-      run: mvn test
+    - name: Get Chrome Version
+      run: |
+            CHROME_VERSION = $(google-chrome --version | awk '{print $3}')         
+            echo "Chrome Version: $CHROME_VERSION"    
+
+   # - name: Run with Maven
+   #   run: mvn test
 
 
