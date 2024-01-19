@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  */
 public class AppTest 
 {
-	  static WebDriver driver;
+	 // static WebDriver driver;
 	  
     
     @Test
